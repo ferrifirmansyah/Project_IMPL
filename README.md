@@ -19,8 +19,7 @@ Manajemen Pengguna:
 
 Anggota Kelompok
 - 2250081043_Zaky Zuhair HS
-- 2250081
-- 2250081
-- 2250081
+- 2250081051_Ferri Firmansyah
+- 2250081059_Andhika Pratama Sofyan
+- 2250081069_M Ichsan Nur Hilmi
 
-.
